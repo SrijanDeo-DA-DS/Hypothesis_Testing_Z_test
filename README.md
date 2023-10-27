@@ -22,5 +22,10 @@ __Scenairo 3__ : The avg 5G uptime of the state of Virginia is different/same fr
 __Conclusion__ : We will be using 2 sample paired (dependent) Z test to calculate the stats and accept/reject null hypothesis
 
 
+Below code is a sample code that is used to calculate Z test in Python :
+
+![image](https://github.com/SrijanDeo-DA-DS/Hypothesis_Testing_Z_test/assets/88278620/0675f31d-f842-4bd0-b044-c9ad0e7e5a2b)
+
+The first element of the output is the Z statistics and second element is the p-value. We assume p-value threshold to be p=0.05
 
 
