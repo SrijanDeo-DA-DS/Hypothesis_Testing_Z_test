@@ -28,4 +28,6 @@ Below code is a sample code that is used to calculate Z test in Python :
 
 The first element of the output is the Z statistics and second element is the p-value. We assume p-value threshold to be p=0.05
 
+## Note : We could use t-test for all the above scenarios if sample size was <=30 or the population variance / standard deviation is unknown. 
+
 
